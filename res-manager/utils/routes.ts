@@ -1,0 +1,23 @@
+export enum ROUTES {
+    //Routes Page
+    DEFAULT = "/",
+    PAYMENT_METHOD = "/payment-method",
+    ROLE = "/role",
+    SETTING = "/setting",
+    ACCOUNT = "/account",
+    WORKSESSION = "/worksession",
+    SHIFT = "/shift",
+    VOID_REASON = "/void-reason",
+    LOCATION = "/location",
+    TABLE = "/table",
+    MEAL_TYPE = "/meal-type",
+    SPECIAL_REQUEST = "/special-request",
+    MAJOR_GROUP = "/major-group",
+    ITEM = "/item",
+    MENU = "/menu",
+    MENU_ITEM = "/menu-item",
+    CHECK = "/check",
+    BILL = "/bill",
+    DASHBOARD = "/dashboard",
+    CASHIER_LOG = "/cashier-log",
+}
